@@ -22,4 +22,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <build>
+    <defaultGoal>clean install package</defaultGoal>
+  </build>
 </project>
+
+
